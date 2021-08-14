@@ -20,7 +20,7 @@
 \-- Dumping data for table `usuario`
 \--
 
-'INSERT INTO \`usuario` (\`id`, \`nome`, \`password`, \`email`, \`telefone`, \`CPF`) VALUES
+'INSERT INTO \`usuario` (`id`, `nome`, `password`, `email`, `telefone`, `CPF`) VALUES
 (05, 'José', 'Valente', 'jose@gmail.com', '(86) 91679-6161', '767.369.301-11'),
 (06, 'Ana', 'Vitoria', 'ana@gmail.com', '(62) 94636-1574', '916.567.438-33'),
 (08, 'Maria', 'Francisca', 'maria@gmail.com', '(75) 92870-0335', '017.740.895-21');''
